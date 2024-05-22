@@ -1,3 +1,25 @@
+@media (max-width: 768px) {
+  .feature-box {
+    margin-bottom: 20px;
+  }
+  .carousel-caption {
+    font-size: 1.2rem;
+  }
+  .testimonial-item {
+    margin-bottom: 20px;
+  }
+  .navbar-brand {
+    font-size: 1.5rem;
+  }
+  .navbar-nav .nav-link {
+    font-size: 1rem;
+  }
+  .container, .alert {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
 .carousel-item {
   height: auto;
   min-height: 350px;
